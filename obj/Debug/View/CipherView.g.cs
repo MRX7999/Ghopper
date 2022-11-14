@@ -52,7 +52,7 @@ namespace lab2._1.View {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/lab2.1;component/view/cipherview.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Ghopper;component/view/cipherview.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\View\CipherView.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
